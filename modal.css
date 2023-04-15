@@ -1,12 +1,16 @@
 html, body {
 	background: #000;
-	color: #fff;
+	
 	font-family: "Arial", sans-serif;
 }
 
 .container {
 	width: 800px;
 	margin: 0 auto;
+	color: #fff;
+}
+.modal-footer {
+    justify-content: space-between;
 }
 
 table {
@@ -30,3 +34,4 @@ td {
 	border-radius: 5px;
 	background: #ff0000;
 }
+
